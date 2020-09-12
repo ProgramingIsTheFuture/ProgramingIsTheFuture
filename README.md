@@ -1,6 +1,6 @@
-# My name is Francisco
+# My name is Francisco 👍
 
-## And i want to work with tecnology and programming! 
+## And I want to work with tecnology and programming! 😎
 
 <!--
 **ProgramingIsTheFuture/ProgramingIsTheFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
