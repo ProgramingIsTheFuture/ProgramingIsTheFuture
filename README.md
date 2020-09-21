@@ -2,6 +2,11 @@
 
 ## And I want to work with tecnology and programming! 😎
 
+### I'm currently working on a big project called MonkeySMedia
+
+
+#### I love to watch anime and series, when i'm not programing! 😂
+
 <!--
 **ProgramingIsTheFuture/ProgramingIsTheFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
