@@ -8,5 +8,5 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramingIsTheFuture&layout=compact&theme=dark&hide=PHP)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramingIsTheFuture&layout=compact&theme=dark&hide=PHP)
 ![github stats](https://github-readme-stats.vercel.app/api?username=ProgramingIsTheFuture&show_icons=true&theme=dark)
