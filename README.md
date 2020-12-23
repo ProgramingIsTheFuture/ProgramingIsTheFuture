@@ -4,7 +4,7 @@
 
 ### I'm currently working on a big project called MonkeySMedia
 
-#### I love to watch anime and series, when i'm not programing! 😂
+#### I love to watch anime and series, when i'm not programing!
 
 <br />
 
