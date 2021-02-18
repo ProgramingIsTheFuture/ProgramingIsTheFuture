@@ -1,6 +1,6 @@
 # My name is Francisco 👏
 
-## I love programming  and work with technology! 😎
+## I love programming and work with technology! 😎
 
 ### I'm currently working on a big project called MonkeySMedia
 
