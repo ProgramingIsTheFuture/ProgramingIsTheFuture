@@ -1,10 +1,10 @@
 # My name is Francisco 👏
 
-## I love work with tecnology and programming! 😎
+## I love programming and work with technology! 😎
 
 ### I'm currently working on a big project called MonkeySMedia
 
-#### I love to watch anime and series, when i'm not programing!
+#### I love to watch anime and series, when I'm not programming!
 
 <br />
 
