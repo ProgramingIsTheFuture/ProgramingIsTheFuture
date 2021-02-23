@@ -10,6 +10,7 @@
   * #### Golang
   * #### Typescript and Reactjs
   * #### Django and Django Rest Framework
+  * #### SQL (PostgreSQL)
 
 <br />
 
