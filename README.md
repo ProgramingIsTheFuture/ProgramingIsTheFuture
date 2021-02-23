@@ -1,10 +1,15 @@
-# My name is Francisco 👏
+# My name is Francisco 👏 and i'm from Portugal 🇵🇹🇵🇹
 
 ## I love programming and work with technology! 😎
 
 ### I'm currently working on a big project called MonkeySMedia
 
-#### I love to watch anime and series, when I'm not programming!
+* ### With knowledge or learning:
+  * #### HTML5 and CSS3 
+  * #### Git
+  * #### Golang
+  * #### Typescript and Reactjs
+  * #### Django and Django Rest Framework
 
 <br />
 
