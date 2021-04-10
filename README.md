@@ -8,8 +8,10 @@
   * #### HTML5 and CSS3 
   * #### Git
   * #### Golang
-  * #### Typescript and Reactjs
+  * #### Python
   * #### Django and Django Rest Framework
+  * #### Typescript/Javascript
+  * #### Reactjs
   * #### SQL (PostgreSQL)
   * #### Microservices and MicroFrontends architecture 
 
