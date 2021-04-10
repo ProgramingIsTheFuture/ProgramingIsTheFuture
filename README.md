@@ -11,6 +11,7 @@
   * #### Typescript and Reactjs
   * #### Django and Django Rest Framework
   * #### SQL (PostgreSQL)
+  * #### Microservices and MicroFrontends architecture 
 
 <br />
 
