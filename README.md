@@ -10,10 +10,11 @@ Some technologies i'm learning or with some knowledge are:
   * Python
   * Typescript
   * Rust 
-  * Git
   * Django and Django Rest Framework
   * Reactjs
   * SQL - PostgreSQL
+  * Git
+  * Docker
   * MicroServices and MicroFrontends Architecture
   * Hexagonal Architecture
 
