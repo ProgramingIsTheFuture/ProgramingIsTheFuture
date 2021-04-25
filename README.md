@@ -1,5 +1,5 @@
 
-# My name is Francisco 👏 and i'm from Portugal 🇵🇹🇵🇹
+# My name is Francisco 👏 and i'm from Portugal 🇵🇹
 
 I'm a student and I love tech and programing! ❤️ \
 I am a micro architectures enthusiast.
