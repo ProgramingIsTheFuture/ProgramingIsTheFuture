@@ -1,21 +1,24 @@
+
 # My name is Francisco 👏 and i'm from Portugal 🇵🇹🇵🇹
 
-## I love programming and work with technology! 😎
+I'm a student and I love tech and programing! ❤️ \
+I am a micro architectures enthusiast.
 
-### I'm currently working on a big project called MonkeySMedia
+Some technologies i'm learning or with some knowledge are:
+  * HTML5 and CSS3 
+  * Golang
+  * Rust 
+  * Python
+  * Typescript
+  * Git
+  * Django and Django Rest Framework
+  * Reactjs
+  * SQL - PostgreSQL
+  * MicroServices and MicroFrontends Architecture
+  * Hexagonal Architecture
 
-* ### With knowledge or learning:
-  * #### HTML5 and CSS3 
-  * #### Git
-  * #### Golang
-  * #### Python
-  * #### Django and Django Rest Framework
-  * #### Typescript/Javascript
-  * #### Reactjs
-  * #### SQL (PostgreSQL)
-  * #### Microservices and MicroFrontends architecture 
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramingIsTheFuture&layout=compact&theme=dark&hide=PHP)
 ![github stats](https://github-readme-stats.vercel.app/api?username=ProgramingIsTheFuture&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramingIsTheFuture&layout=compact&theme=dark&hide=PHP)
