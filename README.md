@@ -7,9 +7,9 @@ I am a micro architectures enthusiast.
 Some technologies i'm learning or with some knowledge are:
   * HTML5 and CSS3 
   * Golang
-  * Rust 
   * Python
   * Typescript
+  * Rust 
   * Git
   * Django and Django Rest Framework
   * Reactjs
