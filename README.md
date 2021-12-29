@@ -8,6 +8,7 @@ I'm from Portugal 🇵🇹.
 
  - 🌱 I’m currently learning - Microservices architecture and graphics programing
  - 🔭 I’m currently working on - Basic 2D Online Game [(TheBarrels)](https://github.com/ProgramingIsTheFuture/TheBarrels)
+ - ♟️ Chess Player - Nickname: ProgramingIsTheFutur or ProgramingIsTheFuture
 
 ## Programing Languages used:
  - [Golang](https://golang.org/)
