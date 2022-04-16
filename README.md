@@ -7,7 +7,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/d8c7ff3a5c2e46a4bc4e5b751033aa25.png?r=w5s"
+      src="https://github.com/ProgramingIsTheFuture/ProgramingIsTheFuture/blob/master/devcard.svg"
     />
   </a>
 </div>
