@@ -24,6 +24,7 @@ I'm from Portugal 🇵🇹.
 
 ## Junior Full-stack Developer
  - 🌱 I’m currently learning: 
+     - Expo/React Native
      - Microservices architecture
      - Microfronteds architecture
      - Hexagonal architecture
