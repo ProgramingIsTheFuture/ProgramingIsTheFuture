@@ -20,19 +20,54 @@ declare global {
 
 const App = () => {
   return (
+    <div class={"app"}>
+      <header>
+        <div class={"profile-img"}></div>
+        <h3>Francisco Santos</h3>
+      </header>
+    </div>
+  );
+};
+
+const Page = () => {
+  return (
     <html>
       <head>
         <title>ProgramingIsTheFuture</title>
+        <style>
+          body,html{"{"}
+          width: 100%; height: 100%; margin: 0;
+          {"}"}
+          .app {"{"}
+          width: 100%; height: 100%;
+          {"}"}
+          header {`{
+            height: 30vh;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+          }`}
+          .profile-img {`{
+            background-image: url("https://github.com/ProgramingIsTheFuture.png") ;
+            height: 100px;
+            width: 100px;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+          }`}
+        </style>
       </head>
       <body>
-        <h1>Hello world</h1>
+        <App />
       </body>
     </html>
   );
 };
 
 const handler = () => {
-  const html = renderSSR(<App />);
+  const html = renderSSR(<Page />);
   return new Response(html, {
     headers: {
       "content-type": "text/html",
