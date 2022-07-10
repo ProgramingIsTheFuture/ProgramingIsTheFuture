@@ -31,6 +31,7 @@ I'm from Portugal 🇵🇹.
      - Graphics programing
  - Programing Languages I use:
      - [Golang](https://golang.org/)
+     - [OCaml](https://ocaml.org/)
      - [Rust](https://www.rust-lang.org/)
      - [Typescript](https://www.typescriptlang.org/)
      - [Python](https://www.python.org/)
