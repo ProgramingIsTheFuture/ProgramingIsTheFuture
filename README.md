@@ -28,7 +28,6 @@ I'm from Portugal 🇵🇹.
      - Microservices architecture
      - Microfronteds architecture
      - Hexagonal architecture
-     - Graphics programing
  - Programing Languages I use:
      - [Golang](https://golang.org/)
      - [OCaml](https://ocaml.org/)
