@@ -39,7 +39,7 @@ I'm from Portugal 🇵🇹.
 <br />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ProgramingIsTheFuture&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramingIsTheFuture&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramingIsTheFuture&layout=compact&theme=dark&hide=JavaScript)
 
 [Instagram]: https://www.instagram.com/programingisthefuture/
 [twitter]: https://twitter.com/FranciscoPrgrmr
