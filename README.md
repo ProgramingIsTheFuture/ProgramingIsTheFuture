@@ -34,7 +34,7 @@ I'm from Portugal 🇵🇹.
      - [Rust](https://www.rust-lang.org/)
      - [Typescript](https://www.typescriptlang.org/)
      - [Python](https://www.python.org/)
- - 🔭 I’m currently working on - Basic 2D Online Game [(TheBarrels)](https://github.com/ProgramingIsTheFuture/TheBarrels)
+ - 🔭 I’m currently working on - Basic 2D Online Game [(Vikings)](https://github.com/ProgramingIsTheFuture/Vikings)
  - ♟️ Chess Player - Nickname: ProgramingIsTheFutur or ProgramingIsTheFuture
 <br />
 
