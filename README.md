@@ -24,7 +24,7 @@ I'm from Portugal 🇵🇹.
 
 ## Junior Full-stack Developer
  - 🌱 I’m currently learning: 
-     - Expo/React Native
+     - Functional Programing
      - Microservices architecture
      - Microfronteds architecture
      - Hexagonal architecture
@@ -34,7 +34,7 @@ I'm from Portugal 🇵🇹.
      - [Rust](https://www.rust-lang.org/)
      - [Typescript](https://www.typescriptlang.org/)
      - [Python](https://www.python.org/)
- - 🔭 I’m currently working on - Basic 2D Online Game [(Vikings)](https://github.com/ProgramingIsTheFuture/Vikings)
+ - 🔭 I’m currently working on - A Productivity Application
  - ♟️ Chess Player - Nickname: ProgramingIsTheFutur or ProgramingIsTheFuture
 <br />
 
