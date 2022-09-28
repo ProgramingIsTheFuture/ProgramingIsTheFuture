@@ -34,7 +34,7 @@ I'm from Portugal 🇵🇹.
      - [Rust](https://www.rust-lang.org/)
      - [Typescript](https://www.typescriptlang.org/)
      - [Python](https://www.python.org/)
- - 🔭 I’m currently working on - [graphql_to_ocaml](https://github.com/ProgramingIsTheFuture/graphql_to_ocaml), OCaml code generator
+ - 🔭 I’m currently working on - [Dyri](https://github.com/ProgramingIsTheFuture/Dyri), general-purpose programing language built with OCaml
  - ♟️ Chess Player - Nickname: ProgramingIsTheFutur or ProgramingIsTheFuture
 <br />
 
