@@ -23,11 +23,10 @@ I'm from Portugal 🇵🇹.
 <br />
 
 ## Junior Full-stack Developer
- - 🌱 I’m currently learning: 
+ - 🌱 I'm interested in: 
      - Functional Programing
-     - Microservices architecture
-     - Microfronteds architecture
-     - Hexagonal architecture
+     - Distributed Systems and Microservices Architecture
+     - Systems Programing
  - Programing Languages I use:
      - [Golang](https://golang.org/)
      - [OCaml](https://ocaml.org/)
