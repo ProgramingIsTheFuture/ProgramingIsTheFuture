@@ -33,7 +33,7 @@ I'm from Portugal 🇵🇹.
      - [Rust](https://www.rust-lang.org/)
      - [Typescript](https://www.typescriptlang.org/)
      - [Python](https://www.python.org/)
- - 🔭 I’m currently working on - [Dyri](https://github.com/ProgramingIsTheFuture/Dyri), general-purpose programing language built with OCaml
+ - 🔭 I’m currently working on - [Luna](https://github.com/ProgramingIsTheFuture/LunaLang), general-purpose programing language built with OCaml
  - ♟️ Chess Player - Nickname: ProgramingIsTheFutur or ProgramingIsTheFuture
 <br />
 
