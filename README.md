@@ -25,6 +25,7 @@ I'm from Portugal 🇵🇹.
 ## Junior Full-stack Developer
  - 🌱 I'm interested in: 
      - Functional Programing
+     - Compilers
      - Distributed Systems and Microservices Architecture
      - Systems Programing
  - Programing Languages I use:
