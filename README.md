@@ -20,19 +20,16 @@ I'm from Portugal 🇵🇹.
 
 <br />
 
-## Junior Full-stack Developer
- - 🌱 I'm interested in: 
-     - Functional Programing
-     - Compilers
-     - Distributed Systems and Microservices Architecture
-     - Systems Programing
- - Programing Languages I use:
-     - [Golang](https://golang.org/)
-     - [OCaml](https://ocaml.org/)
-     - [Rust](https://www.rust-lang.org/)
-     - [Typescript](https://www.typescriptlang.org/)
-     - [Python](https://www.python.org/)
- - 🔭 I’m currently working on - [Luna](https://github.com/ProgramingIsTheFuture/LunaLang), general-purpose programing language built with OCaml
+## 🌱 I'm interested in
+ - Programs and Proofs
+ - Compilers and Type Theory
+ - Distributed Systems and Microservices Architecture
+ - Systems Programing
+
+## Projects
+ - 🔭 I’m currently working on - [Luna](https://github.com/ProgramingIsTheFuture/LunaLang), general-purpose programing language built with OCaml.
+
+## Chess
  - ♟️ Chess Player - Nickname: ProgramingIsTheFutur or ProgramingIsTheFuture
 <br />
 
